@@ -1,0 +1,64 @@
+﻿  Camera.cpp
+  Debug.cpp
+  OpenGLRenderer.cpp
+  SceneManager.cpp
+  Main.cpp
+C:\GameDev\MathLibrary\include\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+  Scene0.cpp
+C:\GameDev\MathLibrary\include\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Scene0.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Scene0.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Scene0.cpp')
+  
+  Timer.cpp
+  VulkanRenderer.cpp
+C:\GameDev\MathLibrary\include\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'VulkanRenderer.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'VulkanRenderer.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'VulkanRenderer.cpp')
+  
+C:\Users\kunal\Desktop\Vr-game\vulkannn\ComponentFramework\tiny_obj_loader.h(1665,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'VulkanRenderer.cpp')
+  
+C:\Users\kunal\Desktop\Vr-game\vulkannn\ComponentFramework\VulkanRenderer.cpp(1022,35): warning C4244: 'argument': conversion from 'VkDeviceSize' to 'size_t', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\vulkannn\ComponentFramework\VulkanRenderer.cpp(1045,34): warning C4244: 'argument': conversion from 'VkDeviceSize' to 'size_t', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\vulkannn\ComponentFramework\VulkanRenderer.cpp(1333,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kunal\Desktop\Vr-game\vulkannn\ComponentFramework\VulkanRenderer.cpp(1344,40): warning C4244: 'argument': conversion from 'const VkDeviceMemory' to 'size_t', possible loss of data
+      C:\Users\kunal\Desktop\Vr-game\vulkannn\ComponentFramework\VulkanRenderer.cpp(1344,40):
+      the template instantiation context (the oldest one first) is
+          C:\Users\kunal\Desktop\Vr-game\vulkannn\ComponentFramework\VulkanRenderer.cpp(163,5):
+          see reference to function template instantiation 'void VulkanRenderer::updateUniformBuffer<CameraUBO>(const T,const BufferMemory &)' being compiled
+          with
+          [
+              T=CameraUBO
+          ]
+  
+  Generating Code...
+  ComponentFramework.vcxproj -> C:\Users\kunal\Desktop\Vr-game\vulkannn\Debug\ComponentFramework.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
