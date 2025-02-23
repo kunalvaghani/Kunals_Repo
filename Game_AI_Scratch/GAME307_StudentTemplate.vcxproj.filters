@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Steering\SteeringOutput.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="KinematicSteeringOutput.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrive.cpp">
+      <Filter>Cpp\Algorithms.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Flee.cpp">
+      <Filter>Cpp\Algorithms.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>Cpp\Algorithms.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="KinematicSeek.cpp">
+      <Filter>Cpp\Algorithms.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Cpp\Algorithms.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Seek.cpp">
+      <Filter>Cpp\Algorithms.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="SteeringBehaviour.cpp">
+      <Filter>Cpp\Algorithms.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Body.cpp">
+      <Filter>Cpp\Characters.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Cpp\Characters.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Steering\KinematicBody.cpp">
+      <Filter>Cpp\Characters.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBody.cpp">
+      <Filter>Cpp\Characters.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticBody.cpp">
+      <Filter>Cpp\Characters.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene1.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene2.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Decision.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="DecisionTreeNode.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Action.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerInRange.cpp">
+      <Filter>Cpp\Game Mechanics.cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Steering\SteeringOutput.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="KinematicSteeringOutput.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrive.h">
+      <Filter>Header\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="Flee.h">
+      <Filter>Header\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="KinematicSeek.h">
+      <Filter>Header\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="Seek.h">
+      <Filter>Header\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Header\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Header\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>Header\characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Header\characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Steering\KinematicBody.h">
+      <Filter>Header\characters</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBody.h">
+      <Filter>Header\characters</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticBody.h">
+      <Filter>Header\characters</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene1.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="SteeringBehaviour.h">
+      <Filter>Header\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene2.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryMonitor.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Decision.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="DecisionTreeNode.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Action.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerInRange.h">
+      <Filter>Header\Game Meachanics</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{460fb90c-384d-474c-9b56-cd5f0462ff13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cpp">
+      <UniqueIdentifier>{81192626-c03b-47af-a390-14638874a56d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header\Algorithms">
+      <UniqueIdentifier>{2ddd55fa-ddac-4781-a7b8-9d16231be4eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header\characters">
+      <UniqueIdentifier>{b7693fa6-c115-4eb9-9a87-9fb241997b4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header\Game Meachanics">
+      <UniqueIdentifier>{c51450fb-cf8f-470e-a074-1d69056b3108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cpp\Characters.cpp">
+      <UniqueIdentifier>{b5d8ec41-4f6a-43e0-b230-6bc4e5d33bd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cpp\Game Mechanics.cpp">
+      <UniqueIdentifier>{0e7f3ce6-6839-4e57-80b6-a420fc7ff9df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cpp\Algorithms.cpp">
+      <UniqueIdentifier>{fdc80871-232e-4c93-b419-55b21228dece}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

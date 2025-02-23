@@ -1,0 +1,111 @@
+﻿  Action.cpp
+  Arrive.cpp
+  Body.cpp
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Arrive.h(15,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Arrive.cpp')
+  
+  Character.cpp
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Arrive.h(15,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Character.cpp')
+  
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(14,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(22,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(26,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(26,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(93,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(212,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(212,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(221,24): warning C4101: 'steering_algorithm': unreferenced local variable
+  Collision.cpp
+  Decision.cpp
+  DecisionTreeNode.cpp
+  Flee.cpp
+  GameManager.cpp
+C:\GameDev\MathLibrary\include\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GameManager.cpp')
+  
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Arrive.h(15,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'GameManager.cpp')
+  
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\GameManager.cpp(227,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\GameManager.cpp(231,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\GameManager.cpp(231,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Graph.cpp
+  KinematicSeek.cpp
+  KinematicSteeringOutput.cpp
+  Main.cpp
+C:\GameDev\MathLibrary\include\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+  Node.cpp
+  PlayerBody.cpp
+  PlayerInRange.cpp
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Arrive.h(15,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'PlayerInRange.cpp')
+  
+  Scene1.cpp
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Arrive.h(15,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Scene1.cpp')
+  
+  Scene2.cpp
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Arrive.h(15,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Scene2.cpp')
+  
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(118,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(119,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(275,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(276,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(320,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(320,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(320,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(320,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(354,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Scene2.cpp(354,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Seek.cpp
+  StaticBody.cpp
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Arrive.h(15,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'StaticBody.cpp')
+  
+  Generating Code...
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\GameManager.cpp(236): warning C4715: 'GameManager::getrandompoint': not all control paths return a value
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Character.cpp(193): warning C4715: 'Character::setTextureWith': not all control paths return a value
+  Compiling...
+  SteeringBehaviour.cpp
+  KinematicBody.cpp
+  SteeringOutput.cpp
+  Tile.cpp
+C:\GameDev\MathLibrary\include\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Tile.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Tile.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Tile.cpp')
+  
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Arrive.h(15,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Tile.cpp')
+  
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Tile.cpp(37,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Tile.cpp(37,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Tile.cpp(38,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kunal\Desktop\Vr-game\Game-AI\GAME307_StudentTemplate\Tile.cpp(38,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Timer.cpp
+  Window.cpp
+  Generating Code...
+  GAME307_StudentTemplate.vcxproj -> C:\Users\kunal\Desktop\Vr-game\Game-AI\Debug\GAME307_StudentTemplate.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
