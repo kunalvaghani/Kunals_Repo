@@ -1,0 +1,25 @@
+Wed Feb 19 11:00:28 2025
+[INFO]: Starting the SceneManager
+[INFO]: OpenGL version: 4.6.0 Compatibility Profile Context 22.20.02.01.220629
+[INFO]: Graphics card vendor ATI Technologies Inc.
+[INFO]: Graphics card name AMD Radeon(TM) Graphics
+[INFO]: GLSL Version 4.60
+[INFO]: Created Scene2: 
+[INFO]: Loading assets Scene2: 
+[INFO]: Uniforms:
+"modelMatrix" loc:2
+"viewMatrix" loc:1
+"lightPos" loc:3
+"projectionMatrix" loc:0
+"skullTexture" loc:4
+
+[INFO]: Uniforms:
+"modelMatrix" loc:2
+"viewMatrix" loc:1
+"lightPos" loc:3
+"projectionMatrix" loc:0
+"skullTexture" loc:4
+
+[INFO]: Deleting the SceneManager
+[INFO]: Deleting assets Scene2: 
+[INFO]: Deleted Scene2: 

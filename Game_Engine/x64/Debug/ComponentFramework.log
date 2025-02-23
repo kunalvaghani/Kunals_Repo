@@ -1,0 +1,47 @@
+﻿  Actor.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\TransformComponent.h(3,10): fatal  error C1083: Cannot open include file: 'Quaternion.h': No such file or directory
+  AssetManager.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\MeshComponent.h(3,10): fatal  error C1083: Cannot open include file: 'glew.h': No such file or directory
+  CameraActor.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\CameraActor.cpp(1,10): fatal  error C1083: Cannot open include file: 'glew.h': No such file or directory
+  Debug.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_sdl.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\imgui_impl_sdl.cpp(70,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  LightActor.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\TransformComponent.h(3,10): fatal  error C1083: Cannot open include file: 'Quaternion.h': No such file or directory
+  MaterialComponent.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\MaterialComponent.cpp(1,10): fatal  error C1083: Cannot open include file: 'glew.h': No such file or directory
+  MeshComponent.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\MeshComponent.h(3,10): fatal  error C1083: Cannot open include file: 'glew.h': No such file or directory
+  ParticleSystemComponent.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\ParticleSystemComponent.h(4,10): fatal  error C1083: Cannot open include file: 'MMath.h': No such file or directory
+  ReadXML.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\ReadXML.h(5,10): fatal  error C1083: Cannot open include file: 'Vector.h': No such file or directory
+  Scene1.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\Scene1.cpp(1,10): fatal  error C1083: Cannot open include file: 'glew.h': No such file or directory
+  SceneManager.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\SceneManager.cpp(1,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\Main.cpp(11,30): error C2338: static_assert failed: 'This program is not ready for 64-bit build'
+  Scene0.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\Scene0.cpp(1,10): fatal  error C1083: Cannot open include file: 'glew.h': No such file or directory
+  Generating Code...
+  Compiling...
+  ShaderComponent.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\ShaderComponent.h(3,10): fatal  error C1083: Cannot open include file: 'glew.h': No such file or directory
+  Texture.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\Texture.h(3,10): fatal  error C1083: Cannot open include file: 'glew.h': No such file or directory
+  Timer.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\Timer.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  tinyxml2.cpp
+  TransformComponent.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\TransformComponent.h(3,10): fatal  error C1083: Cannot open include file: 'Quaternion.h': No such file or directory
+  Window.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\Window.h(4,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

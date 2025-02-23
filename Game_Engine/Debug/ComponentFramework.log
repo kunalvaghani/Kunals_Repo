@@ -1,0 +1,38 @@
+﻿  Scene2.cpp
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\Scene2.cpp(170,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kunal\Desktop\Vr-game\templateFramework\ComponentFramework\Scene2.cpp(178,23): warning C4018: '<': signed/unsigned mismatch
+  SceneManager.cpp
+C:\GameDev\MathLibrary\include\MMath.h(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(19,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\MMath.h(49,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\QMath.h(86,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\QMath.h(87,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\QMath.h(88,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\QMath.h(89,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\QMath.h(90,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\QMath.h(91,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+C:\GameDev\MathLibrary\include\QMath.h(103,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SceneManager.cpp')
+  
+  Generating Code...
+  ComponentFramework.vcxproj -> C:\Users\kunal\Desktop\Vr-game\templateFramework\Debug\ComponentFramework.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
